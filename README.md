@@ -1,2 +1,2 @@
 # Lab
-#Algortihm and Complexity Lab.
+Algortihm and Complexity Lab.
